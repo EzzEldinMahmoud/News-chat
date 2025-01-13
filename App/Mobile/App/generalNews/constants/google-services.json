@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074014453075",
+    "project_id": "general-news-5913c",
+    "storage_bucket": "general-news-5913c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074014453075:android:25c32b002c03bcb07835a6",
+        "android_client_info": {
+          "package_name": "com.ezzeldinapp.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ2J4ccZYadsTH_9EVwrOw8Q8VTa1GhjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
